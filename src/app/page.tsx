@@ -28,6 +28,10 @@ export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
       <h1>APP ABOUT CAT FACTS :D</h1>
+
+          <p>&#128176;</p>
+      <p>I will display &#128176;</p>
+      <p>I will display &#x1F4B0;</p>
       <div className="z-10 w-full max-w-5xl items-center justify-between font-mono text-sm lg:flex">
         {/* Display the fetched data */}
         <div>
