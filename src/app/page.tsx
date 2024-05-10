@@ -27,7 +27,7 @@ export default function Home() {
 
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
-      {/* Your existing JSX code */}
+      <h1>APP ABOUT CAT FACTS :D</h1>
       <div className="z-10 w-full max-w-5xl items-center justify-between font-mono text-sm lg:flex">
         {/* Display the fetched data */}
         <div>
